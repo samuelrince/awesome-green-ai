@@ -1,5 +1,5 @@
 <div align="center">
-![hero](https://user-images.githubusercontent.com/35747570/205037006-62bcbb00-ce69-4197-b9ab-bd7e30b74dc9.jpg)
+  <img src="https://user-images.githubusercontent.com/35747570/205037006-62bcbb00-ce69-4197-b9ab-bd7e30b74dc9.jpg" width="300">
 </div>
 
 # Awesome Green AI 🤖🌱
