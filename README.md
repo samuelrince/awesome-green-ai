@@ -1,5 +1,5 @@
 <div align="center">
-![Robots walking out of an abondoned city](assets/hero.jpg)
+![hero](https://user-images.githubusercontent.com/35747570/205037006-62bcbb00-ce69-4197-b9ab-bd7e30b74dc9.jpg)
 </div>
 
 # Awesome Green AI 🤖🌱
