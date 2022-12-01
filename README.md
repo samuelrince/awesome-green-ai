@@ -1,3 +1,7 @@
+<div align="center">
+![Robots walking out of an abondoned city](./assets/hero.jpg)
+</div>
+
 # Awesome Green AI 🤖🌱
 
 *A curated list of awesome Green AI resources and tools to reduce the environmental impacts of using and deploying AI.*
@@ -10,7 +14,7 @@ AI is one of the fastest growing sectors, disrupting many other industries ([AI 
 
 All contributions are welcome. Add links through [pull requests](https://github.com/samuelrince/awesome-green-ai/pulls) or create an [issue](https://github.com/samuelrince/awesome-green-ai/issues) to start a discussion.
 
-## Tools
+## 🛠 Tools
 
 ### Integrated Tools
 
@@ -33,7 +37,7 @@ Other honorable mentions of non-AI targeted power consumption and environmental 
 * [Green Algorithms](http://calculator.green-algorithms.org/) - A tool to easily estimate the carbon footprint of a project.
 * [ML CO2 Impact](https://mlco2.github.io/impact/) - Compute model emissions and add the results to your paper with our generated latex template.
 
-## Papers
+## 📄 Papers
 
 * Energy and Policy Considerations for Deep Learning in NLP - [Strubell et al. (2019)](https://arxiv.org/pdf/1906.02243.pdf)
 * Carbontracker: Tracking and Predicting the Carbon Footprint of Training
