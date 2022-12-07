@@ -26,6 +26,7 @@ All contributions are welcome. Add links through [pull requests](https://github.
 * [AIPowerMeter](https://github.com/GreenAI-Uppa/AIPowerMeter) - Easily monitor energy usage of machine learning programs.
 * [carbontracker](https://github.com/lfwa/carbontracker) - Track and predict the energy consumption and carbon footprint of training deep learning models.
 * [CodeCarbon](https://github.com/mlco2/codecarbon) - Track emissions from Compute and recommend ways to reduce their impact on the environment.
+* [Eco2AI](https://github.com/sb-ai-lab/Eco2AI) - A python library which accumulates statistics about power consumption and CO2 emission during running code.
 * [experiment-impact-tracker](https://github.com/Breakend/experiment-impact-tracker) - A simple drop-in method to track energy usage, carbon emissions, and compute utilization of your system.
 * [GPU Meter](https://github.com/autoai-incubator/powermeter) - Power Consumption Meter for NVIDIA GPUs.
 
