@@ -44,8 +44,7 @@ Other honorable mentions of non-AI targeted power consumption and environmental 
 ## 📄 Papers
 
 * Energy and Policy Considerations for Deep Learning in NLP - [Strubell et al. (2019)](https://arxiv.org/pdf/1906.02243.pdf)
-* Carbontracker: Tracking and Predicting the Carbon Footprint of Training
-Deep Learning Models - [Anthony et al. (2020)](https://arxiv.org/pdf/2007.03051.pdf)
+* Carbontracker: Tracking and Predicting the Carbon Footprint of Training Deep Learning Models - [Anthony et al. (2020)](https://arxiv.org/pdf/2007.03051.pdf)
 * Green AI - [Schwartz et al. (2020)](https://cacm.acm.org/magazines/2020/12/248800-green-ai/fulltext)
 * Green Algorithms: Quantifying the Carbon Footprint of Computation - [Lannelongue et al. (2021)](https://onlinelibrary.wiley.com/doi/10.1002/advs.202100707)
 * Aligning artificial intelligence with climate change mitigation - [Haack et al. (2021)](https://hal.archives-ouvertes.fr/hal-03368037/document)
@@ -53,3 +52,4 @@ Deep Learning Models - [Anthony et al. (2020)](https://arxiv.org/pdf/2007.03051.
 * Measuring the Carbon Intensity of AI in Cloud Instances - [Dodge et al. (2022)](https://arxiv.org/pdf/2206.05229.pdf)
 * Estimating the Carbon Footprint of BLOOM a 176B Parameter Language Model - [Luccioni et al. (2022)](https://arxiv.org/pdf/2211.02001.pdf)
 * Bridging Fairness and Environmental Sustainability in Natural Language Processing - [Hessenthaler et al. (2022)](https://arxiv.org/pdf/2211.04256.pdf)
+* Eco2AI: carbon emissions tracking of machine learning models as the first step towards sustainable AI - [Budennyy et al. (2022)](https://arxiv.org/pdf/2208.00406.pdf)
