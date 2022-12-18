@@ -34,6 +34,8 @@ All contributions are welcome. Add links through [pull requests](https://github.
 
 ### Monitoring Tools
 
+*Tools to monitor power consumption and environmental impacts.*
+
 | Tool | Badges | Description |
 |------|--------|-------------|
 | [Boagent](https://github.com/Boavizta/boagent) | ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux) | Local API and monitoring agent focussed on environmental impacts of the host. |
