@@ -47,8 +47,9 @@ All contributions are welcome. Add links through [pull requests](https://github.
 
 *Tools to estimate environmental impacts of algorithms, models and compute resources.*
 
-* [Boaviztapi](https://github.com/Boavizta/boaviztapi/) - Multi-criteria embodied and usage environmental impacts of compute resources.
+* [Boaviztapi](https://github.com/Boavizta/boaviztapi/) - Multi-criteria impacts of compute resources taking into account manufactuing and usage.
 * [Datavizta](https://datavizta.boavizta.org/serversimpact) - Compute resources data explorer not limited to AI.
+* [EcoDiag](https://ecoinfo.cnrs.fr/ecodiag-calcul/) - Compute environmental footprint of IT resources taking into account manufactuing and usage.
 * [Green Algorithms](http://calculator.green-algorithms.org/) - A tool to easily estimate the carbon footprint of a project.
 * [ML CO2 Impact](https://mlco2.github.io/impact/) - Compute model emissions and add the results to your paper with our generated latex template.
 
