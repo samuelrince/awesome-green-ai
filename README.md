@@ -31,6 +31,7 @@ All contributions are welcome. Add links through [pull requests](https://github.
 | [Eco2AI](https://github.com/sb-ai-lab/Eco2AI) | ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat-square&logo=nvidia) | A python library which accumulates statistics about power consumption and CO2 emission during running code. |
 | [experiment-impact-tracker](https://github.com/Breakend/experiment-impact-tracker) | ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat-square&logo=nvidia) | A python library which accumulates statistics about power consumption and CO2 emission during running code. |
 | [GPU Meter](https://github.com/autoai-incubator/powermeter) | ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat-square&logo=nvidia) | Power Consumption Meter for NVIDIA GPUs. |
+| [Tracarbon](https://github.com/fvaleye/tracarbon) | ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux) ![Mac](https://img.shields.io/badge/Mac-black?style=flat-square&logo=apple) ![GPU](https://img.shields.io/badge/GPU-black?style=flat-square&logo=nvidia) | Tracks your device's energy consumption and calculates your carbon emissions using your location. |
 
 ### Monitoring Tools
 
