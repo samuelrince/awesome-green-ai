@@ -19,22 +19,26 @@ All contributions are welcome. Add links through [pull requests](https://github.
 
 ## 🛠 Tools
 
-### Integrated Tools
+### Code-Based Tools
 
 *Tools to measure and compute environmental impacts of AI.*
 
-* [AIPowerMeter](https://github.com/GreenAI-Uppa/AIPowerMeter) - Easily monitor energy usage of machine learning programs.
-* [carbontracker](https://github.com/lfwa/carbontracker) - Track and predict the energy consumption and carbon footprint of training deep learning models.
-* [CodeCarbon](https://github.com/mlco2/codecarbon) - Track emissions from Compute and recommend ways to reduce their impact on the environment.
-* [Eco2AI](https://github.com/sb-ai-lab/Eco2AI) - A python library which accumulates statistics about power consumption and CO2 emission during running code.
-* [experiment-impact-tracker](https://github.com/Breakend/experiment-impact-tracker) - A simple drop-in method to track energy usage, carbon emissions, and compute utilization of your system.
-* [GPU Meter](https://github.com/autoai-incubator/powermeter) - Power Consumption Meter for NVIDIA GPUs.
+| Tool | Badges | Description |
+|------|--------|-------------|
+| [AIPowerMeter](https://github.com/GreenAI-Uppa/AIPowerMeter) | ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat-square&logo=nvidia) | Easily monitor energy usage of machine learning programs. |
+| [carbontracker](https://github.com/lfwa/carbontracker) | ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat-square&logo=nvidia) | Track and predict the energy consumption and carbon footprint of training deep learning models. |
+| [CodeCarbon](https://github.com/mlco2/codecarbon) | ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux) ![Mac](https://img.shields.io/badge/Mac-black?style=flat-square&logo=apple) ![Win](https://img.shields.io/badge/Win-black?style=flat-square&logo=windows) ![GPU](https://img.shields.io/badge/GPU-black?style=flat-square&logo=nvidia) | Track emissions from Compute and recommend ways to reduce their impact on the environment. |
+| [Eco2AI](https://github.com/sb-ai-lab/Eco2AI) | ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat-square&logo=nvidia) | A python library which accumulates statistics about power consumption and CO2 emission during running code. |
+| [experiment-impact-tracker](https://github.com/Breakend/experiment-impact-tracker) | ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat-square&logo=nvidia) | A python library which accumulates statistics about power consumption and CO2 emission during running code. |
+| [GPU Meter](https://github.com/autoai-incubator/powermeter) | ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat-square&logo=nvidia) | Power Consumption Meter for NVIDIA GPUs. |
 
-Other honorable mentions of non-AI targeted power consumption and environmental impacts projects:
+### Monitoring Tools
 
-* [Boagent](https://github.com/Boavizta/boagent) - Local API and monitoring agent focussed on environmental impacts of the host.
-* [PowerJoular](https://gitlab.com/joular/powerjoular) - Monitor power consumption of multiple platforms and processes.
-* [Scaphandre](https://github.com/hubblo-org/scaphandre) - A metrology agent dedicated to electrical power consumption metrics.
+| Tool | Badges | Description |
+|------|--------|-------------|
+| [Boagent](https://github.com/Boavizta/boagent) | ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux) | Local API and monitoring agent focussed on environmental impacts of the host. |
+| [PowerJoular](https://gitlab.com/joular/powerjoular) | ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux) ![Raspberry](https://img.shields.io/badge/Raspberry-black?style=flat-square&logo=raspberrypi) ![GPU](https://img.shields.io/badge/GPU-black?style=flat-square&logo=nvidia) | Monitor power consumption of multiple platforms and processes. |
+| [Scaphandre](https://github.com/hubblo-org/scaphandre) | ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux) ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker) ![k8s](https://img.shields.io/badge/k8s-black?style=flat-square&logo=kubernetes) | A metrology agent dedicated to electrical power consumption metrics. |
 
 ### Calculation Tools
 
