@@ -56,6 +56,7 @@ All contributions are welcome. Add links through [pull requests](https://github.
 ## 📄 Papers
 
 * Energy and Policy Considerations for Deep Learning in NLP - [Strubell et al. (2019)](https://arxiv.org/pdf/1906.02243.pdf)
+* Quantifying the Carbon Emissions of Machine Learning - [Lacoste et al. (2019)](https://arxiv.org/pdf/1910.09700.pdf)
 * Carbontracker: Tracking and Predicting the Carbon Footprint of Training Deep Learning Models - [Anthony et al. (2020)](https://arxiv.org/pdf/2007.03051.pdf)
 * Green AI - [Schwartz et al. (2020)](https://cacm.acm.org/magazines/2020/12/248800-green-ai/fulltext)
 * Carbon Emissions and Large Neural Network Training - [Patterson, et al. (2021)](https://arxiv.org/ftp/arxiv/papers/2104/2104.10350.pdf)
