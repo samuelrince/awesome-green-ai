@@ -68,4 +68,5 @@ All contributions are welcome. Add links through [pull requests](https://github.
 * Bridging Fairness and Environmental Sustainability in Natural Language Processing - [Hessenthaler et al. (2022)](https://arxiv.org/pdf/2211.04256.pdf)
 * Eco2AI: carbon emissions tracking of machine learning models as the first step towards sustainable AI - [Budennyy et al. (2022)](https://arxiv.org/pdf/2208.00406.pdf)
 * Environmental assessment of projects involving AI methods - [Lefèvre et al. (2022)](https://hal.science/hal-03922093v1/document)
+* Sustainable AI: Environmental Implications, Challenges and Opportunities - [Wu et al. 2022](https://arxiv.org/pdf/2111.00364.pdf)
 * Method and evaluations of the effective gain of artificial intelligence models for reducing CO2 emissions - [Delanoë et al. (2023)](https://www.sciencedirect.com/science/article/pii/S030147972300049X)
