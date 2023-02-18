@@ -67,4 +67,4 @@ All contributions are welcome. Add links through [pull requests](https://github.
 * Estimating the Carbon Footprint of BLOOM a 176B Parameter Language Model - [Luccioni et al. (2022)](https://arxiv.org/pdf/2211.02001.pdf)
 * Bridging Fairness and Environmental Sustainability in Natural Language Processing - [Hessenthaler et al. (2022)](https://arxiv.org/pdf/2211.04256.pdf)
 * Eco2AI: carbon emissions tracking of machine learning models as the first step towards sustainable AI - [Budennyy et al. (2022)](https://arxiv.org/pdf/2208.00406.pdf)
-* Environmental impact assessment of projects involving AI methods (🇫🇷 only) - [Lefèvre et al. (2022)](https://hal.archives-ouvertes.fr/hal-03853135/document)
+* Environmental assessment of projects involving AI methods - [Lefèvre et al. (2022)](https://hal.science/hal-03922093v1/document)
