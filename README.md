@@ -72,3 +72,4 @@ All contributions are welcome. Add links through [pull requests](https://github.
 * Sustainable AI: Environmental Implications, Challenges and Opportunities - [Wu et al. 2022](https://arxiv.org/pdf/2111.00364.pdf)
 * Towards the Systematic Reporting of the Energy and Carbon Footprints of Machine Learning - [Henderson et al. (2022)](https://arxiv.org/pdf/2002.05651.pdf)
 * Method and evaluations of the effective gain of artificial intelligence models for reducing CO2 emissions - [Delanoë et al. (2023)](https://www.sciencedirect.com/science/article/pii/S030147972300049X)
+* Counting Carbon: A Survey of Factors Influencing the Emissions of Machine Learning - [Luccioni et al. (2023)](https://arxiv.org/pdf/2302.08476v1.pdf)
