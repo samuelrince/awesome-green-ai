@@ -34,7 +34,7 @@ All contributions are welcome. Add links through [pull requests](https://github.
 | [GPU Meter](https://github.com/autoai-incubator/powermeter) | ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat-square&logo=nvidia) | Power Consumption Meter for NVIDIA GPUs. |
 | [PyJoules](https://github.com/powerapi-ng/pyJoules) | ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat-square&logo=nvidia) | A Python library to capture the energy consumption of code snippets |
 | [Tracarbon](https://github.com/fvaleye/tracarbon) | ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux) ![Mac](https://img.shields.io/badge/Mac-black?style=flat-square&logo=apple) ![GPU](https://img.shields.io/badge/GPU-black?style=flat-square&logo=nvidia) | Tracks your device's energy consumption and calculates your carbon emissions using your location. |
-| [Zeus](https://github.com/SymbioticLab/Zeus) | ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat-square&logo=nvidia) | A Framework for Deep Learning Energy Measurement and Optimization. |
+| [Zeus](https://github.com/SymbioticLab/Zeus) | ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat-square&logo=nvidia) | A framework for deep learning energy measurement and optimization. |
 
 ### Monitoring Tools
 
@@ -53,7 +53,7 @@ All contributions are welcome. Add links through [pull requests](https://github.
 | Tool | Badges | Description |
 |------|--------|-------------|
 | [GEOPM](https://github.com/geopm/geopm) | ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat-square&logo=nvidia) ![k8s](https://img.shields.io/badge/k8s-black?style=flat-square&logo=kubernetes) | A framework to enable efficient power management and performance optimizations. |
-| [Zeus](https://github.com/SymbioticLab/Zeus) | ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat-square&logo=nvidia) | A Framework for Deep Learning Energy Measurement and Optimization. |
+| [Zeus](https://github.com/SymbioticLab/Zeus) | ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat-square&logo=nvidia) | A framework for deep learning energy measurement and optimization. |
 
 ### Calculation Tools
 
