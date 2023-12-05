@@ -50,6 +50,8 @@ All contributions are welcome. Add links through [pull requests](https://github.
 
 ### Optimization Tools
 
+| Tool | Badges | Description |
+|------|--------|-------------|
 | [GEOPM](https://github.com/geopm/geopm) | ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat-square&logo=nvidia) ![k8s](https://img.shields.io/badge/k8s-black?style=flat-square&logo=kubernetes) | A framework to enable efficient power management and performance optimizations. |
 | [Zeus](https://github.com/SymbioticLab/Zeus) | ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat-square&logo=nvidia) | A Framework for Deep Learning Energy Measurement and Optimization. |
 
