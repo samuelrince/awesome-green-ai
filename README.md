@@ -48,6 +48,11 @@ All contributions are welcome. Add links through [pull requests](https://github.
 | [Scaphandre](https://github.com/hubblo-org/scaphandre) | ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux) ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker) ![k8s](https://img.shields.io/badge/k8s-black?style=flat-square&logo=kubernetes) | A metrology agent dedicated to electrical power consumption metrics. |
 | [vJoule](https://github.com/davidson-consulting/vjoule) | ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat-square&logo=nvidia) ![CLI](https://img.shields.io/badge/CLI-black?style=flat-square&logo=cli) | A tool to estimate the energy consumption of your processes. |
 
+### Optimization Tools
+
+| [GEOPM](https://github.com/geopm/geopm) | ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat-square&logo=nvidia) ![k8s](https://img.shields.io/badge/k8s-black?style=flat-square&logo=kubernetes) | A framework to enable efficient power management and performance optimizations. |
+| [Zeus](https://github.com/SymbioticLab/Zeus) | ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat-square&logo=nvidia) | A Framework for Deep Learning Energy Measurement and Optimization. |
+
 ### Calculation Tools
 
 *Tools to estimate environmental impacts of algorithms, models and compute resources.*
