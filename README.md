@@ -67,6 +67,8 @@ All contributions are welcome. Add links through [pull requests](https://github.
 * [Green Algorithms](http://calculator.green-algorithms.org/) - A tool to easily estimate the carbon footprint of a project.
 * [MLCarbon](https://github.com/SotaroKaneda/MLCarbon) - End-to-end carbon footprint modeling tool.
 * [ML CO2 Impact](https://mlco2.github.io/impact/) - Compute model emissions and add the results to your paper with our generated latex template.
+* [Companies taking action](https://ditchcarbon.com/free-sbti-api-access/) - API access to the "companies taking action" list from SBTI.
+* [DitchCarbon API](https://docs.ditchcarbon.com/) - DitchCarbon provides API access to their dataset of company and product carbon emissions disclosures, also includes reccommended actions for each company to decarbonise.
 
 ## 📄 Papers
 
