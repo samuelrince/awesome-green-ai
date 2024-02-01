@@ -23,39 +23,43 @@ All contributions are welcome. Add links through [pull requests](https://github.
 
 *Tools to measure and compute environmental impacts of AI.*
 
-| Tool | Badges | Description |
-|------|--------|-------------|
-| [AIPowerMeter](https://github.com/GreenAI-Uppa/AIPowerMeter) | ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat-square&logo=nvidia) | Easily monitor energy usage of machine learning programs. |
-| [carbonai](https://github.com/Capgemini-Invent-France/CarbonAI) | ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux) ![Mac](https://img.shields.io/badge/Mac-black?style=flat-square&logo=apple) ![Win](https://img.shields.io/badge/Win-black?style=flat-square&logo=windows) ![GPU](https://img.shields.io/badge/GPU-black?style=flat-square&logo=nvidia) | Python package to monitor the power consumption of any algorithm. |
-| [carbontracker](https://github.com/lfwa/carbontracker) | ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat-square&logo=nvidia) | Track and predict the energy consumption and carbon footprint of training deep learning models. |
-| [CodeCarbon](https://github.com/mlco2/codecarbon) | ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux) ![Mac](https://img.shields.io/badge/Mac-black?style=flat-square&logo=apple) ![Win](https://img.shields.io/badge/Win-black?style=flat-square&logo=windows) ![GPU](https://img.shields.io/badge/GPU-black?style=flat-square&logo=nvidia) ![CLI](https://img.shields.io/badge/CLI-black?style=flat-square&logo=cli) | Track emissions from Compute and recommend ways to reduce their impact on the environment. |
-| [Eco2AI](https://github.com/sb-ai-lab/Eco2AI) | ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat-square&logo=nvidia) | A python library which accumulates statistics about power consumption and CO2 emission during running code. |
-| [experiment-impact-tracker](https://github.com/Breakend/experiment-impact-tracker) | ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat-square&logo=nvidia) | A simple drop-in method to track energy usage, carbon emissions, and compute utilization of your system. |
-| [GPU Meter](https://github.com/autoai-incubator/powermeter) | ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat-square&logo=nvidia) | Power Consumption Meter for NVIDIA GPUs. |
-| [PyJoules](https://github.com/powerapi-ng/pyJoules) | ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat-square&logo=nvidia) | A Python library to capture the energy consumption of code snippets |
-| [Tracarbon](https://github.com/fvaleye/tracarbon) | ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux) ![Mac](https://img.shields.io/badge/Mac-black?style=flat-square&logo=apple) ![GPU](https://img.shields.io/badge/GPU-black?style=flat-square&logo=nvidia) | Tracks your device's energy consumption and calculates your carbon emissions using your location. |
-| [Zeus](https://github.com/SymbioticLab/Zeus) | ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat-square&logo=nvidia) | A framework for deep learning energy measurement and optimization. |
+- [CodeCarbon](https://github.com/mlco2/codecarbon) – Track emissions from Compute and recommend ways to reduce their impact on the environment.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux) ![Mac](https://img.shields.io/badge/Mac-black?style=flat&logo=apple) ![Win](https://img.shields.io/badge/Win-black?style=flat&logo=windows) ![GPU](https://img.shields.io/badge/GPU-black?style=flat&logo=nvidia) ![CLI](https://img.shields.io/badge/CLI-black?style=flat&logo=cli)
+- [carbontracker](https://github.com/lfwa/carbontracker) – Track and predict the energy consumption and carbon footprint of training deep learning models.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat&logo=nvidia)
+- [Eco2AI](https://github.com/sb-ai-lab/Eco2AI) – A python library which accumulates statistics about power consumption and CO2 emission during running code.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat&logo=nvidia)
+- [Zeus](https://github.com/SymbioticLab/Zeus) – A framework for deep learning energy measurement and optimization.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat&logo=nvidia)
+- [Tracarbon](https://github.com/fvaleye/tracarbon) – Tracks your device's energy consumption and calculates your carbon emissions using your location.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux) ![Mac](https://img.shields.io/badge/Mac-black?style=flat&logo=apple) ![GPU](https://img.shields.io/badge/GPU-black?style=flat&logo=nvidia)
+- [AIPowerMeter](https://github.com/GreenAI-Uppa/AIPowerMeter) – Easily monitor energy usage of machine learning programs.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat&logo=nvidia)
+
+<details>
+<summary>☠️ No longer maintained:</summary>
+
+<br>
+
+- [carbonai](https://github.com/Capgemini-Invent-France/CarbonAI) –  Python package to monitor the power consumption of any algorithm.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux) ![Mac](https://img.shields.io/badge/Mac-black?style=flat&logo=apple) ![Win](https://img.shields.io/badge/Win-black?style=flat&logo=windows) ![GPU](https://img.shields.io/badge/GPU-black?style=flat&logo=nvidia)
+- [experiment-impact-tracker](https://github.com/Breakend/experiment-impact-tracker) – A simple drop-in method to track energy usage, carbon emissions, and compute utilization of your system.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat&logo=nvidia)
+- [GPU Meter](https://github.com/autoai-incubator/powermeter) – Power Consumption Meter for NVIDIA GPUs.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat&logo=nvidia)
+- [PyJoules](https://github.com/powerapi-ng/pyJoules) – A Python library to capture the energy consumption of code snippets.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat&logo=nvidia)
+
+</details>
 
 ### Monitoring Tools
 
 *Tools to monitor power consumption and environmental impacts.*
 
-| Tool | Badges | Description |
-|------|--------|-------------|
-| [Boagent](https://github.com/Boavizta/boagent) | ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux) | Local API and monitoring agent focussed on environmental impacts of the host. |
-| [jupyter-power-usage](https://github.com/mahendrapaipuri/jupyter-power-usage) | ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat-square&logo=nvidia) | Jupyter extension to display CPU and GPU power usage and carbon emissions |
-| [PowerJoular](https://github.com/joular/powerjoular) | ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux) ![Raspberry](https://img.shields.io/badge/Raspberry-black?style=flat-square&logo=raspberrypi) ![GPU](https://img.shields.io/badge/GPU-black?style=flat-square&logo=nvidia) ![CLI](https://img.shields.io/badge/CLI-black?style=flat-square&logo=cli) | Monitor power consumption of multiple platforms and processes. |
-| [Scaphandre](https://github.com/hubblo-org/scaphandre) | ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux) ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker) ![k8s](https://img.shields.io/badge/k8s-black?style=flat-square&logo=kubernetes) | A metrology agent dedicated to electrical power consumption metrics. |
-| [vJoule](https://github.com/davidson-consulting/vjoule) | ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat-square&logo=nvidia) ![CLI](https://img.shields.io/badge/CLI-black?style=flat-square&logo=cli) | A tool to estimate the energy consumption of your processes. |
+- [Scaphandre](https://github.com/hubblo-org/scaphandre) – A metrology agent dedicated to electrical power consumption metrics.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux) ![Docker](https://img.shields.io/badge/Docker-black?style=flat&logo=docker) ![k8s](https://img.shields.io/badge/k8s-black?style=flat&logo=kubernetes)
+- [PowerJoular](https://github.com/joular/powerjoular) – Monitor power consumption of multiple platforms and processes.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux) ![Raspberry](https://img.shields.io/badge/Raspberry-black?style=flat&logo=raspberrypi) ![GPU](https://img.shields.io/badge/GPU-black?style=flat&logo=nvidia) ![CLI](https://img.shields.io/badge/CLI-black?style=flat&logo=cli)
+- [Boagent](https://github.com/Boavizta/boagent) – Local API and monitoring agent focussed on environmental impacts of the host.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux)
+- [vJoule](https://github.com/davidson-consulting/vjoule) – A tool to estimate the energy consumption of your processes.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat&logo=nvidia) ![CLI](https://img.shields.io/badge/CLI-black?style=flat&logo=cli)
+- [jupyter-power-usage](https://github.com/mahendrapaipuri/jupyter-power-usage) – Jupyter extension to display CPU and GPU power usage and carbon emissions.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat&logo=nvidia)
+
 
 ### Optimization Tools
 
 *Tools to optimize energy consumption or environmental impacts.*
 
-| Tool | Badges | Description |
-|------|--------|-------------|
-| [GEOPM](https://github.com/geopm/geopm) | ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat-square&logo=nvidia) ![k8s](https://img.shields.io/badge/k8s-black?style=flat-square&logo=kubernetes) | A framework to enable efficient power management and performance optimizations. |
-| [Zeus](https://github.com/SymbioticLab/Zeus) | ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat-square&logo=nvidia) | A framework for deep learning energy measurement and optimization. |
+- [Zeus](https://github.com/SymbioticLab/Zeus) – A framework for deep learning energy measurement and optimization.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat&logo=nvidia)
+- [GEOPM](https://github.com/geopm/geopm) – A framework to enable efficient power management and performance optimizations.<br> ![GPU](https://img.shields.io/badge/GPU-black?style=flat&logo=nvidia) ![k8s](https://img.shields.io/badge/k8s-black?style=flat&logo=kubernetes)
+
 
 ### Calculation Tools
 
