@@ -103,3 +103,4 @@ All contributions are welcome. Add links through [pull requests](https://github.
 * LLMCarbon: Modeling the End-To-End Carbon Footprint of Large Language Models - [Faiz et al. (2023)](https://arxiv.org/abs/2309.14393)
 * Power Hungry Processing: Watts Driving the Cost of AI Deployment? - [Luccioni et al. (2023)](https://arxiv.org/abs/2311.16863)
 * Perseus: Removing Energy Bloat from Large Model Training - [Chung et al. (2023)](https://arxiv.org/abs/2312.06902)
+* Estimating the environmental impact of Generative-AI services using an LCA-based methodology - [Berthelot et al. (2023)](https://hal.univ-lorraine.fr/INRIA/hal-04346102v2)
