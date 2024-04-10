@@ -104,4 +104,5 @@ All contributions are welcome. Add links through [pull requests](https://github.
 * Power Hungry Processing: Watts Driving the Cost of AI Deployment? - [Luccioni et al. (2023)](https://arxiv.org/abs/2311.16863)
 * Perseus: Removing Energy Bloat from Large Model Training - [Chung et al. (2023)](https://arxiv.org/abs/2312.06902)
 * Estimating the environmental impact of Generative-AI services using an LCA-based methodology - [Berthelot et al. (2023)](https://hal.univ-lorraine.fr/INRIA/hal-04346102v2)
+* Towards Greener LLMs: Bringing Energy-Efficiency to the Forefront of LLM Inference - [Stojkovic et al. (2024)](https://arxiv.org/abs/2403.20306)
 * Green AI: Exploring Carbon Footprints, Mitigation Strategies, and Trade Offs in Large Language Model Training - [Liu et al. (2024)](https://arxiv.org/abs/2404.01157)
