@@ -29,6 +29,7 @@ All contributions are welcome. Add links through [pull requests](https://github.
 - [Zeus](https://github.com/SymbioticLab/Zeus) – A framework for deep learning energy measurement and optimization.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat&logo=nvidia)
 - [Tracarbon](https://github.com/fvaleye/tracarbon) – Tracks your device's energy consumption and calculates your carbon emissions using your location.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux) ![Mac](https://img.shields.io/badge/Mac-black?style=flat&logo=apple) ![GPU](https://img.shields.io/badge/GPU-black?style=flat&logo=nvidia)
 - [AIPowerMeter](https://github.com/GreenAI-Uppa/AIPowerMeter) – Easily monitor energy usage of machine learning programs.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat&logo=nvidia)
+- [GATorch](https://github.com/GreenAITorch/GATorch) – An Energy-Aware PyTorch Extension.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat&logo=nvidia)
 
 <details>
 <summary>☠️ No longer maintained:</summary>
