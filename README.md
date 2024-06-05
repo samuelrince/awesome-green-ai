@@ -28,9 +28,9 @@ All contributions are welcome. Add links through [pull requests](https://github.
 - [Eco2AI](https://github.com/sb-ai-lab/Eco2AI) – A python library which accumulates statistics about power consumption and CO2 emission during running code.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat&logo=nvidia)
 - [Zeus](https://github.com/SymbioticLab/Zeus) – A framework for deep learning energy measurement and optimization.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat&logo=nvidia)
 - [Tracarbon](https://github.com/fvaleye/tracarbon) – Tracks your device's energy consumption and calculates your carbon emissions using your location.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux) ![Mac](https://img.shields.io/badge/Mac-black?style=flat&logo=apple) ![GPU](https://img.shields.io/badge/GPU-black?style=flat&logo=nvidia)
-- [AIPowerMeter](https://github.com/GreenAI-Uppa/AIPowerMeter) – Easily monitor energy usage of machine learning programs.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat&logo=nvidia)
 - [EcoLogits](https://github.com/genai-impact/ecologits) – Estimates the energy consumption and environmental footprint of LLM inference through APIs.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux) ![Mac](https://img.shields.io/badge/Mac-black?style=flat&logo=apple) ![Win](https://img.shields.io/badge/Win-black?style=flat&logo=windows) ![GPU](https://img.shields.io/badge/GPU-black?style=flat&logo=nvidia)
-- [GATorch](https://github.com/GreenAITorch/GATorch) – An Energy-Aware PyTorch Extension.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat&logo=nvidia)
+- [AIPowerMeter](https://github.com/GreenAI-Uppa/AIPowerMeter) – Easily monitor energy usage of machine learning programs.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat&logo=nvidia)
+
 
 <details>
 <summary>☠️ No longer maintained:</summary>
@@ -39,6 +39,7 @@ All contributions are welcome. Add links through [pull requests](https://github.
 
 - [carbonai](https://github.com/Capgemini-Invent-France/CarbonAI) –  Python package to monitor the power consumption of any algorithm.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux) ![Mac](https://img.shields.io/badge/Mac-black?style=flat&logo=apple) ![Win](https://img.shields.io/badge/Win-black?style=flat&logo=windows) ![GPU](https://img.shields.io/badge/GPU-black?style=flat&logo=nvidia)
 - [experiment-impact-tracker](https://github.com/Breakend/experiment-impact-tracker) – A simple drop-in method to track energy usage, carbon emissions, and compute utilization of your system.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat&logo=nvidia)
+- [GATorch](https://github.com/GreenAITorch/GATorch) – An Energy-Aware PyTorch Extension.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat&logo=nvidia)
 - [GPU Meter](https://github.com/autoai-incubator/powermeter) – Power Consumption Meter for NVIDIA GPUs.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat&logo=nvidia)
 - [PyJoules](https://github.com/powerapi-ng/pyJoules) – A Python library to capture the energy consumption of code snippets.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat&logo=nvidia)
 
@@ -102,10 +103,13 @@ All contributions are welcome. Add links through [pull requests](https://github.
 * Making AI Less "Thirsty": Uncovering and Addressing the Secret Water Footprint of AI Models - [Li et al. (2023)](https://arxiv.org/abs/2304.03271)
 * Zeus: Understanding and Optimizing GPU Energy Consumption of DNN Training - [You et al. (2023)](https://www.usenix.org/conference/nsdi23/presentation/you)
 * Chasing Low-Carbon Electricity for Practical and Sustainable DNN Training - [Yang et al. (2023)](https://www.climatechange.ai/papers/iclr2023/29)
+* Toward Sustainable HPC: Carbon Footprint Estimation and Environmental Implications of HPC Systems - [Li et al. (2023)](https://arxiv.org/abs/2306.13177)
 * LLMCarbon: Modeling the End-To-End Carbon Footprint of Large Language Models - [Faiz et al. (2023)](https://arxiv.org/abs/2309.14393)
+* Exploring the Carbon Footprint of Hugging Face's ML Models: A Repository Mining Study - [Castano et al. (2023)](https://ieeexplore.ieee.org/document/10304801)
 * Power Hungry Processing: Watts Driving the Cost of AI Deployment? - [Luccioni et al. (2023)](https://arxiv.org/abs/2311.16863)
 * Perseus: Removing Energy Bloat from Large Model Training - [Chung et al. (2023)](https://arxiv.org/abs/2312.06902)
 * Timeshifting strategies for carbon-efficient long-running large language model training - [Jagannadharao et al. (2023)](https://link.springer.com/article/10.1007/s11334-023-00546-x)
 * Estimating the environmental impact of Generative-AI services using an LCA-based methodology - [Berthelot et al. (2024)](https://hal.univ-lorraine.fr/INRIA/hal-04346102v2)
 * Towards Greener LLMs: Bringing Energy-Efficiency to the Forefront of LLM Inference - [Stojkovic et al. (2024)](https://arxiv.org/abs/2403.20306)
 * Green AI: Exploring Carbon Footprints, Mitigation Strategies, and Trade Offs in Large Language Model Training - [Liu et al. (2024)](https://arxiv.org/abs/2404.01157)
+* A simplified machine learning product carbon footprint evaluation tool - [Lang et al. (2024)](https://www.sciencedirect.com/science/article/pii/S2666789424000254)
