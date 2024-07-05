@@ -91,8 +91,6 @@ Generic tools:
 * Green Algorithms: Quantifying the Carbon Footprint of Computation - [Lannelongue et al. (2021)](https://onlinelibrary.wiley.com/doi/10.1002/advs.202100707)
 * Aligning artificial intelligence with climate change mitigation - [Kaack et al. (2021)](https://hal.archives-ouvertes.fr/hal-03368037/document)
 * A Pratical Guide to Quantifying Carbon Emissions for Machine Learning researchers and practitioners - [Ligozat et al. (2021)](https://hal.archives-ouvertes.fr/hal-03376391/document)
-* Evaluating the carbon footprint of NLP methods: a survey and analysis of existing tools - [Bannour et al.(2021)](https://aclanthology.org/2021.sustainlp-1.2.pdf)
-* A Survey on Green Deep Learning - [Xu et al. (2021)](https://arxiv.org/abs/2111.05193)
 * Unraveling the Hidden Environmental Impacts of AI Solutions for Environment Life Cycle Assessment of AI Solutions - [Ligozat et al. (2022)](https://arxiv.org/abs/2110.11822)
 * Measuring the Carbon Intensity of AI in Cloud Instances - [Dodge et al. (2022)](https://arxiv.org/abs/2206.05229)
 * Estimating the Carbon Footprint of BLOOM a 176B Parameter Language Model - [Luccioni et al. (2022)](https://arxiv.org/abs/2211.02001)
@@ -104,7 +102,6 @@ Generic tools:
 * Towards the Systematic Reporting of the Energy and Carbon Footprints of Machine Learning - [Henderson et al. (2022)](https://arxiv.org/abs/2002.05651)
 * Towards Sustainable Artificial Intelligence: An Overview of Environmental Protection Uses and Issues - [Pachot et al. (2022)](https://arxiv.org/abs/2212.11738)
 * Method and evaluations of the effective gain of artificial intelligence models for reducing CO2 emissions - [Delanoë et al. (2023)](https://www.sciencedirect.com/science/article/pii/S030147972300049X)
-* Counting Carbon: A Survey of Factors Influencing the Emissions of Machine Learning - [Luccioni et al. (2023)](https://arxiv.org/abs/2302.08476)
 * Making AI Less "Thirsty": Uncovering and Addressing the Secret Water Footprint of AI Models - [Li et al. (2023)](https://arxiv.org/abs/2304.03271)
 * Zeus: Understanding and Optimizing GPU Energy Consumption of DNN Training - [You et al. (2023)](https://www.usenix.org/conference/nsdi23/presentation/you)
 * Chasing Low-Carbon Electricity for Practical and Sustainable DNN Training - [Yang et al. (2023)](https://www.climatechange.ai/papers/iclr2023/29)
@@ -119,3 +116,12 @@ Generic tools:
 * Green AI: Exploring Carbon Footprints, Mitigation Strategies, and Trade Offs in Large Language Model Training - [Liu et al. (2024)](https://arxiv.org/abs/2404.01157)
 * A simplified machine learning product carbon footprint evaluation tool - [Lang et al. (2024)](https://www.sciencedirect.com/science/article/pii/S2666789424000254)
 * Beyond Efficiency: Scaling AI Sustainably - [Wu et al. (2024)](https://arxiv.org/abs/2406.05303v1)
+* MLCA: a tool for Machine Learning Life Cycle Assessment - [Morand et al. (2024)](https://conf.researchr.org/getImage/ict4s-2024/orig/ICT4S2024_paper_73.pdf)
+
+### Survey Papers
+
+* Evaluating the carbon footprint of NLP methods: a survey and analysis of existing tools - [Bannour et al.(2021)](https://aclanthology.org/2021.sustainlp-1.2.pdf)
+* A Survey on Green Deep Learning - [Xu et al. (2021)](https://arxiv.org/abs/2111.05193)
+* A Systematic Review of Green AI - [Verdecchia et al. (2023)](https://arxiv.org/abs/2301.11047)
+* Counting Carbon: A Survey of Factors Influencing the Emissions of Machine Learning - [Luccioni et al. (2023)](https://arxiv.org/abs/2302.08476)
+* Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems - [Miao et al. (2023)](https://arxiv.org/abs/2312.15234)
