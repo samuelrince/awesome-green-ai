@@ -81,6 +81,12 @@ Generic tools:
 * [EcoDiag](https://ecoinfo.cnrs.fr/ecodiag-calcul/) - Compute carbon footprint of IT resources taking into account manufactuing and usage (🇫🇷 only).
 
 
+### Leaderboards
+
+* [LLM Perf Leaderboad](https://huggingface.co/spaces/optimum/llm-perf-leaderboard) - Benchmarking LLMs on performance and energy.
+* [ML.Energy Leaderboard](https://ml.energy/leaderboard/?__theme=light) - Energy consumption of LLMs at inference.
+
+
 ## 📄 Papers
 
 * Energy and Policy Considerations for Deep Learning in NLP - [Strubell et al. (2019)](https://arxiv.org/abs/1906.02243)
