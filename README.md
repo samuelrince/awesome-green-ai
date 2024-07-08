@@ -121,6 +121,7 @@ Generic tools:
 * Estimating the environmental impact of Generative-AI services using an LCA-based methodology - [Berthelot et al. (2024)](https://hal.univ-lorraine.fr/INRIA/hal-04346102v2)
 * Towards Greener LLMs: Bringing Energy-Efficiency to the Forefront of LLM Inference - [Stojkovic et al. (2024)](https://arxiv.org/abs/2403.20306)
 * Green AI: Exploring Carbon Footprints, Mitigation Strategies, and Trade Offs in Large Language Model Training - [Liu et al. (2024)](https://arxiv.org/abs/2404.01157)
+* Engineering Carbon Emission-aware Machine Learning Pipelines - [Humsom et al. (2024)](https://dl.acm.org/doi/10.1145/3644815.3644943)
 * A simplified machine learning product carbon footprint evaluation tool - [Lang et al. (2024)](https://www.sciencedirect.com/science/article/pii/S2666789424000254)
 * Beyond Efficiency: Scaling AI Sustainably - [Wu et al. (2024)](https://arxiv.org/abs/2406.05303v1)
 * MLCA: a tool for Machine Learning Life Cycle Assessment - [Morand et al. (2024)](https://conf.researchr.org/getImage/ict4s-2024/orig/ICT4S2024_paper_73.pdf)
