@@ -111,6 +111,7 @@ Generic tools:
 * Method and evaluations of the effective gain of artificial intelligence models for reducing CO2 emissions - [Delanoë et al. (2023)](https://www.sciencedirect.com/science/article/pii/S030147972300049X)
 * Making AI Less "Thirsty": Uncovering and Addressing the Secret Water Footprint of AI Models - [Li et al. (2023)](https://arxiv.org/abs/2304.03271)
 * Zeus: Understanding and Optimizing GPU Energy Consumption of DNN Training - [You et al. (2023)](https://www.usenix.org/conference/nsdi23/presentation/you)
+* Trends in AI inference energy consumption: Beyond the performance-vs-parameter laws of deep learning [Desislavov et al. (2023)](https://www.sciencedirect.com/science/article/pii/S2210537923000124#sec7)
 * Chasing Low-Carbon Electricity for Practical and Sustainable DNN Training - [Yang et al. (2023)](https://www.climatechange.ai/papers/iclr2023/29)
 * Toward Sustainable HPC: Carbon Footprint Estimation and Environmental Implications of HPC Systems - [Li et al. (2023)](https://arxiv.org/abs/2306.13177)
 * LLMCarbon: Modeling the End-To-End Carbon Footprint of Large Language Models - [Faiz et al. (2023)](https://arxiv.org/abs/2309.14393)
