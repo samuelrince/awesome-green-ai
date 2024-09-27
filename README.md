@@ -126,7 +126,9 @@ Generic tools:
 * Engineering Carbon Emission-aware Machine Learning Pipelines - [Humsom et al. (2024)](https://dl.acm.org/doi/10.1145/3644815.3644943)
 * A simplified machine learning product carbon footprint evaluation tool - [Lang et al. (2024)](https://www.sciencedirect.com/science/article/pii/S2666789424000254)
 * Beyond Efficiency: Scaling AI Sustainably - [Wu et al. (2024)](https://arxiv.org/abs/2406.05303v1)
-* MLCA: a tool for Machine Learning Life Cycle Assessment - [Morand et al. (2024)](https://conf.researchr.org/getImage/ict4s-2024/orig/ICT4S2024_paper_73.pdf)
+* MLCA: a tool for Machine Learning Life Cycle Assessment - [Morand et al. (2024)](https://hal.science/hal-04643414)
+* Hype, Sustainability, and the Price of the Bigger-is-Better Paradigm in AI - [Varoquaux et al. (2024)](https://arxiv.org/abs/2409.14160)
+
 
 ### Survey Papers
 
