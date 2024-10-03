@@ -104,7 +104,7 @@ Generic tools:
 * Estimating the Carbon Footprint of BLOOM a 176B Parameter Language Model - [Luccioni et al. (2022)](https://arxiv.org/abs/2211.02001)
 * Bridging Fairness and Environmental Sustainability in Natural Language Processing - [Hessenthaler et al. (2022)](https://arxiv.org/abs/2211.04256)
 * Eco2AI: carbon emissions tracking of machine learning models as the first step towards sustainable AI - [Budennyy et al. (2022)](https://arxiv.org/abs/2208.00406)
-* Environmental assessment of projects involving AI methods - [Lefèvre et al. (2022)](https://hal.science/hal-03922093v1/document)
+* Environmental assessment of projects involving AI methods - [Lefèvre et al. (2022)](https://hal.science/hal-03922093)
 * Sustainable AI: Environmental Implications, Challenges and Opportunities - [Wu et al. (2022)](https://arxiv.org/abs/2111.00364)
 * The Carbon Footprint of Machine Learning Training Will Plateau, Then Shrink - [Patterson et al. (2022)](https://arxiv.org/abs/2204.05149)
 * Towards the Systematic Reporting of the Energy and Carbon Footprints of Machine Learning - [Henderson et al. (2022)](https://arxiv.org/abs/2002.05651)
@@ -125,7 +125,8 @@ Generic tools:
 * Green AI: Exploring Carbon Footprints, Mitigation Strategies, and Trade Offs in Large Language Model Training - [Liu et al. (2024)](https://arxiv.org/abs/2404.01157)
 * Engineering Carbon Emission-aware Machine Learning Pipelines - [Humsom et al. (2024)](https://dl.acm.org/doi/10.1145/3644815.3644943)
 * A simplified machine learning product carbon footprint evaluation tool - [Lang et al. (2024)](https://www.sciencedirect.com/science/article/pii/S2666789424000254)
-* Beyond Efficiency: Scaling AI Sustainably - [Wu et al. (2024)](https://arxiv.org/abs/2406.05303v1)
+* Beyond Efficiency: Scaling AI Sustainably - [Wu et al. (2024)](https://arxiv.org/abs/2406.05303)
+* The Price of Prompting: Profiling Energy Use in Large Language Models Inference - [Huson et al. (2024)](https://arxiv.org/abs/2407.16893)
 * MLCA: a tool for Machine Learning Life Cycle Assessment - [Morand et al. (2024)](https://hal.science/hal-04643414)
 * Hype, Sustainability, and the Price of the Bigger-is-Better Paradigm in AI - [Varoquaux et al. (2024)](https://arxiv.org/abs/2409.14160)
 
