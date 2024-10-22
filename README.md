@@ -98,7 +98,7 @@ Generic tools:
 * Carbon Emissions and Large Neural Network Training - [Patterson, et al. (2021)](https://arxiv.org/abs/2104.10350)
 * Green Algorithms: Quantifying the Carbon Footprint of Computation - [Lannelongue et al. (2021)](https://onlinelibrary.wiley.com/doi/10.1002/advs.202100707)
 * Aligning artificial intelligence with climate change mitigation - [Kaack et al. (2021)](https://hal.archives-ouvertes.fr/hal-03368037/document)
-* A Pratical Guide to Quantifying Carbon Emissions for Machine Learning researchers and practitioners - [Ligozat et al. (2021)](https://hal.archives-ouvertes.fr/hal-03376391/document)
+* A Practical Guide to Quantifying Carbon Emissions for Machine Learning researchers and practitioners - [Ligozat et al. (2021)](https://hal.archives-ouvertes.fr/hal-03376391/document)
 * Unraveling the Hidden Environmental Impacts of AI Solutions for Environment Life Cycle Assessment of AI Solutions - [Ligozat et al. (2022)](https://arxiv.org/abs/2110.11822)
 * Measuring the Carbon Intensity of AI in Cloud Instances - [Dodge et al. (2022)](https://arxiv.org/abs/2206.05229)
 * Estimating the Carbon Footprint of BLOOM a 176B Parameter Language Model - [Luccioni et al. (2022)](https://arxiv.org/abs/2211.02001)
