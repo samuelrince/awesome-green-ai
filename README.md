@@ -129,6 +129,7 @@ Generic tools:
 * The Price of Prompting: Profiling Energy Use in Large Language Models Inference - [Huson et al. (2024)](https://arxiv.org/abs/2407.16893)
 * MLCA: a tool for Machine Learning Life Cycle Assessment - [Morand et al. (2024)](https://hal.science/hal-04643414)
 * Hype, Sustainability, and the Price of the Bigger-is-Better Paradigm in AI - [Varoquaux et al. (2024)](https://arxiv.org/abs/2409.14160)
+* Addition is All You Need for Energy-efficient Language Models - [Luo et al. (2024)](https://arxiv.org/abs/2410.00907)
 
 
 ### Survey Papers
