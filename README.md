@@ -116,6 +116,7 @@ Generic tools:
 * Chasing Low-Carbon Electricity for Practical and Sustainable DNN Training - [Yang et al. (2023)](https://www.climatechange.ai/papers/iclr2023/29)
 * Toward Sustainable HPC: Carbon Footprint Estimation and Environmental Implications of HPC Systems - [Li et al. (2023)](https://arxiv.org/abs/2306.13177)
 * LLMCarbon: Modeling the End-To-End Carbon Footprint of Large Language Models - [Faiz et al. (2023)](https://arxiv.org/abs/2309.14393)
+* The growing energy footprint of artificial intelligence - [De Vries (2023)](https://www.sciencedirect.com/science/article/pii/S2542435123003653)
 * Exploring the Carbon Footprint of Hugging Face's ML Models: A Repository Mining Study - [Castano et al. (2023)](https://ieeexplore.ieee.org/document/10304801)
 * Power Hungry Processing: Watts Driving the Cost of AI Deployment? - [Luccioni et al. (2023)](https://arxiv.org/abs/2311.16863)
 * Perseus: Removing Energy Bloat from Large Model Training - [Chung et al. (2023)](https://arxiv.org/abs/2312.06902)
