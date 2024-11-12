@@ -132,6 +132,7 @@ Generic tools:
 * Hype, Sustainability, and the Price of the Bigger-is-Better Paradigm in AI - [Varoquaux et al. (2024)](https://arxiv.org/abs/2409.14160)
 * Addition is All You Need for Energy-efficient Language Models - [Luo et al. (2024)](https://arxiv.org/abs/2410.00907)
 * E-waste challenges of generative artificial intelligence - [Wang et al. (2024)](https://www.nature.com/articles/s43588-024-00712-6)
+* Reconciling the contrasting narratives on the environmental impact of large language models - [Ren et al. (2024)](https://www.nature.com/articles/s41598-024-76682-6)
 
 
 ### Survey Papers
