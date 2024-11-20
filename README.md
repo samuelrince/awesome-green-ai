@@ -142,3 +142,10 @@ Generic tools:
 * A Systematic Review of Green AI - [Verdecchia et al. (2023)](https://arxiv.org/abs/2301.11047)
 * Counting Carbon: A Survey of Factors Influencing the Emissions of Machine Learning - [Luccioni et al. (2023)](https://arxiv.org/abs/2302.08476)
 * Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems - [Miao et al. (2023)](https://arxiv.org/abs/2312.15234)
+
+
+## Reports
+
+* Powering artificial intelligence: a study of AI’s footprint—today and tomorrow - [Deloitte 2024](https://www.deloitte.com/global/en/issues/climate/powering-ai.html)
+* AI and the Environment - International Standards for AI and the Environment - [ITU 2024](https://www.itu.int/dms_pub/itu-t/opb/env/T-ENV-ENV-2024-1-PDF-E.pdf)
+* Powering Up Europe: AI Datacenters and Electrification to Drive +c.40%-50% Growth in Electricity Consumption - [Goldman Sachs 2024](https://www.goldmansachs.com/insights/goldman-sachs-research/electrify-now-powering-up-europe)
