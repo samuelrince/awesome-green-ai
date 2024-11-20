@@ -89,7 +89,7 @@ Generic tools:
 * [AI Energy Star Leaderboard](https://huggingface.co/spaces/EnergyStarAI/2024_Leaderboard) - Energy efficiency ratings for AI models.
 
 
-## 📄 Papers
+## 📚 Papers
 
 * Energy and Policy Considerations for Deep Learning in NLP - [Strubell et al. (2019)](https://arxiv.org/abs/1906.02243)
 * Quantifying the Carbon Emissions of Machine Learning - [Lacoste et al. (2019)](https://arxiv.org/abs/1910.09700)
@@ -144,8 +144,9 @@ Generic tools:
 * Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems - [Miao et al. (2023)](https://arxiv.org/abs/2312.15234)
 
 
-## Reports
+## 🏢 Reports
 
 * Powering artificial intelligence: a study of AI’s footprint—today and tomorrow - [Deloitte 2024](https://www.deloitte.com/global/en/issues/climate/powering-ai.html)
 * AI and the Environment - International Standards for AI and the Environment - [ITU 2024](https://www.itu.int/dms_pub/itu-t/opb/env/T-ENV-ENV-2024-1-PDF-E.pdf)
 * Powering Up Europe: AI Datacenters and Electrification to Drive +c.40%-50% Growth in Electricity Consumption - [Goldman Sachs 2024](https://www.goldmansachs.com/insights/goldman-sachs-research/electrify-now-powering-up-europe)
+* The great challenges of generative AI (🇫🇷 only) - [Data For Good 2023](https://dataforgood.fr/iagenerative/)
