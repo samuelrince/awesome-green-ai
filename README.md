@@ -148,5 +148,6 @@ Generic tools:
 
 * The great challenges of generative AI (🇫🇷 only) - [Data For Good 2023](https://dataforgood.fr/iagenerative/)
 * Powering Up Europe: AI Datacenters and Electrification to Drive +c.40%-50% Growth in Electricity Consumption - [Goldman Sachs 2024](https://www.goldmansachs.com/insights/goldman-sachs-research/electrify-now-powering-up-europe)
+* Generational Growth — AI/data centers’ global power surge and the sustainability impact - [Goldman Sachs 2024](https://www.goldmansachs.com/insights/goldman-sachs-research/gs-sustain-generational-growth-ai-data-centers-global-power)
 * AI and the Environment - International Standards for AI and the Environment - [ITU 2024](https://www.itu.int/dms_pub/itu-t/opb/env/T-ENV-ENV-2024-1-PDF-E.pdf)
 * Powering artificial intelligence: a study of AI’s footprint—today and tomorrow - [Deloitte 2024](https://www.deloitte.com/global/en/issues/climate/powering-ai.html)
