@@ -51,9 +51,9 @@ All contributions are welcome. Add links through [pull requests](https://github.
 
 - [Scaphandre](https://github.com/hubblo-org/scaphandre) – A metrology agent dedicated to electrical power consumption metrics.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux) ![Docker](https://img.shields.io/badge/Docker-black?style=flat&logo=docker) ![k8s](https://img.shields.io/badge/k8s-black?style=flat&logo=kubernetes)
 - [PowerJoular](https://github.com/joular/powerjoular) – Monitor power consumption of multiple platforms and processes.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux) ![Raspberry](https://img.shields.io/badge/Raspberry-black?style=flat&logo=raspberrypi) ![GPU](https://img.shields.io/badge/GPU-black?style=flat&logo=nvidia) ![CLI](https://img.shields.io/badge/CLI-black?style=flat&logo=cli)
+- [ALUMET](https://github.com/alumet-dev/alumet) – A modular and efficient software measurement tool.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat&logo=nvidia) ![CLI](https://img.shields.io/badge/CLI-black?style=flat&logo=cli)
 - [Boagent](https://github.com/Boavizta/boagent) – Local API and monitoring agent focussed on environmental impacts of the host.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux)
 - [vJoule](https://github.com/davidson-consulting/vjoule) – A tool to estimate the energy consumption of your processes.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat&logo=nvidia) ![CLI](https://img.shields.io/badge/CLI-black?style=flat&logo=cli)
-- [ALUMET](https://github.com/alumet-dev/alumet) – A modular and efficient software measurement tool.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat&logo=nvidia) ![CLI](https://img.shields.io/badge/CLI-black?style=flat&logo=cli)
 - [jupyter-power-usage](https://github.com/mahendrapaipuri/jupyter-power-usage) – Jupyter extension to display CPU and GPU power usage and carbon emissions.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat&logo=nvidia)
 
 
@@ -137,7 +137,6 @@ Generic tools:
 * Addition is All You Need for Energy-efficient Language Models - [Luo et al. (2024)](https://arxiv.org/abs/2410.00907)
 * E-waste challenges of generative artificial intelligence - [Wang et al. (2024)](https://www.nature.com/articles/s43588-024-00712-6)
 * Reconciling the contrasting narratives on the environmental impact of large language models - [Ren et al. (2024)](https://www.nature.com/articles/s41598-024-76682-6)
-* Dissecting the software-based measurement of CPU energy consumption: a comparative analysis - [Raffin et al. (2024)](https://arxiv.org/abs/2401.15985)
 
 
 ### Survey Papers
