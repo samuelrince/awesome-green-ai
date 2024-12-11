@@ -98,7 +98,7 @@ Generic tools:
 
 * [LLM Perf Leaderboad](https://huggingface.co/spaces/optimum/llm-perf-leaderboard) - Benchmarking LLMs on performance and energy.
 * [ML.Energy Leaderboard](https://ml.energy/leaderboard/?__theme=light) - Energy consumption of GenAI models at inference.
-* [AI Energy Star Leaderboard](https://huggingface.co/spaces/EnergyStarAI/2024_Leaderboard) - Energy efficiency ratings for AI models.
+* [AI Energy Score Leaderboard](https://huggingface.co/spaces/AIEnergyScore/2024_Leaderboard) - Energy efficiency ratings for AI models.
 
 
 ## 📚 Papers
