@@ -86,6 +86,7 @@ All contributions are welcome. Add links through [pull requests](https://github.
 * [AI Carbon](https://huggingface.co/spaces/sasha/AI_Carbon) - Estimate your AI model's carbon footprint.
 * [MLCarbon](https://github.com/SotaroKaneda/MLCarbon) - End-to-end carbon footprint modeling tool.
 * [GenAI Carbon Footprint](https://github.com/greenscale-ai/genai-carbon-footprint) - A tool to estimate energy use (kWh) and carbon emissions (gCO2eq) from LLM usage.
+* [Carbon footprint modeling tool](https://borisruf.github.io/carbon-footprint-modeling-tool/ai-scenarios.html) - A data model and a viewer for carbon footprint scenarios.
 
 Generic tools:
 
