@@ -168,3 +168,4 @@ Generic tools:
 * AI and the Environment - International Standards for AI and the Environment - [ITU 2024](https://www.itu.int/dms_pub/itu-t/opb/env/T-ENV-ENV-2024-1-PDF-E.pdf)
 * Powering artificial intelligence: a study of AI’s footprint—today and tomorrow - [Deloitte 2024](https://www.deloitte.com/global/en/issues/climate/powering-ai.html)
 * Artificial Intelligence and Electricity: A System Dynamics Approach - [Schneider Electric 2024](https://www.se.com/ww/en/insights/sustainability/sustainability-research-institute/artificial-intelligence-electricity-system-dynamics-approach/)
+* Developing sustainable Gen AI - [Capgemini 2025](https://www.capgemini.com/gb-en/insights/research-library/sustainable-gen-ai/)
