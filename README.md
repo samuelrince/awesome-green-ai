@@ -107,7 +107,9 @@ Generic tools:
 * Energy and Policy Considerations for Deep Learning in NLP - [Strubell et al. (2019)](https://arxiv.org/abs/1906.02243)
 * Quantifying the Carbon Emissions of Machine Learning - [Lacoste et al. (2019)](https://arxiv.org/abs/1910.09700)
 * Carbontracker: Tracking and Predicting the Carbon Footprint of Training Deep Learning Models - [Anthony et al. (2020)](https://arxiv.org/abs/2007.03051)
+* The carbon impact of artificial intelligence. - [Payal Dhar (2020)](https://www.researchgate.net/profile/Payal-Dhar-2/publication/343618995_The_carbon_impact_of_artificial_intelligence/links/63051d3a5eed5e4bd114250a/The-carbon-impact-of-artificial-intelligence.pdf)
 * Green AI - [Schwartz et al. (2020)](https://cacm.acm.org/magazines/2020/12/248800-green-ai/fulltext)
+* Towards the Systematic Reporting of the Energy and Carbon Footprints of Machine Learning - [Henderson et al. (2020)](https://www.jmlr.org/papers/v21/20-312.html)
 * The Energy and Carbon Footprint of Training End-to-End Speech Recognizers - [Parcollet et al. (2021)](https://hal.science/hal-03190119v1/)
 * Carbon Emissions and Large Neural Network Training - [Patterson, et al. (2021)](https://arxiv.org/abs/2104.10350)
 * Green Algorithms: Quantifying the Carbon Footprint of Computation - [Lannelongue et al. (2021)](https://onlinelibrary.wiley.com/doi/10.1002/advs.202100707)
@@ -115,6 +117,7 @@ Generic tools:
 * A Practical Guide to Quantifying Carbon Emissions for Machine Learning researchers and practitioners - [Ligozat et al. (2021)](https://hal.archives-ouvertes.fr/hal-03376391/document)
 * Unraveling the Hidden Environmental Impacts of AI Solutions for Environment Life Cycle Assessment of AI Solutions - [Ligozat et al. (2022)](https://arxiv.org/abs/2110.11822)
 * Measuring the Carbon Intensity of AI in Cloud Instances - [Dodge et al. (2022)](https://arxiv.org/abs/2206.05229)
+* Green AI: do deep learning frameworks have different costs? - [Georgiou et al. (2022)](https://discovery.ucl.ac.uk/id/eprint/10143851/1/ml_performance_study_preprint.pdf)
 * Estimating the Carbon Footprint of BLOOM a 176B Parameter Language Model - [Luccioni et al. (2022)](https://arxiv.org/abs/2211.02001)
 * Bridging Fairness and Environmental Sustainability in Natural Language Processing - [Hessenthaler et al. (2022)](https://arxiv.org/abs/2211.04256)
 * Eco2AI: carbon emissions tracking of machine learning models as the first step towards sustainable AI - [Budennyy et al. (2022)](https://arxiv.org/abs/2208.00406)
@@ -137,6 +140,7 @@ Generic tools:
 * Power Hungry Processing: Watts Driving the Cost of AI Deployment? - [Luccioni et al. (2023)](https://arxiv.org/abs/2311.16863)
 * Perseus: Removing Energy Bloat from Large Model Training - [Chung et al. (2023)](https://arxiv.org/abs/2312.06902)
 * Timeshifting strategies for carbon-efficient long-running large language model training - [Jagannadharao et al. (2023)](https://link.springer.com/article/10.1007/s11334-023-00546-x)
+* From Words to Watts: Benchmarking the Energy Costs of Large Language Model Inference - [Samsi et al. (2023)](https://arxiv.org/pdf/2310.03003)
 * Estimating the environmental impact of Generative-AI services using an LCA-based methodology - [Berthelot et al. (2024)](https://hal.univ-lorraine.fr/INRIA/hal-04346102v2)
 * Towards Greener LLMs: Bringing Energy-Efficiency to the Forefront of LLM Inference - [Stojkovic et al. (2024)](https://arxiv.org/abs/2403.20306)
 * Green AI: Exploring Carbon Footprints, Mitigation Strategies, and Trade Offs in Large Language Model Training - [Liu et al. (2024)](https://arxiv.org/abs/2404.01157)
@@ -157,6 +161,7 @@ Generic tools:
 * A Survey on Green Deep Learning - [Xu et al. (2021)](https://arxiv.org/abs/2111.05193)
 * A Systematic Review of Green AI - [Verdecchia et al. (2023)](https://arxiv.org/abs/2301.11047)
 * Counting Carbon: A Survey of Factors Influencing the Emissions of Machine Learning - [Luccioni et al. (2023)](https://arxiv.org/abs/2302.08476)
+* How to estimate carbon footprint when training deep learning models? A guide and review - [Bouza et al. (2023)](https://iopscience.iop.org/article/10.1088/2515-7620/acf81b/meta)
 * Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems - [Miao et al. (2023)](https://arxiv.org/abs/2312.15234)
 
 
