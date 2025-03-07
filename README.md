@@ -178,3 +178,4 @@ Generic tools:
 * Artificial Intelligence and Electricity: A System Dynamics Approach - [Schneider Electric 2024](https://www.se.com/ww/en/insights/sustainability/sustainability-research-institute/artificial-intelligence-electricity-system-dynamics-approach/)
 * Developing sustainable Gen AI - [Capgemini 2025](https://www.capgemini.com/gb-en/insights/research-library/sustainable-gen-ai/)
 * Exploring the sustainable scaling of AI dilemma: A projective study of corporations' AI environmental impacts - [Capgemini Invent 2025](https://arxiv.org/abs/2501.14334)
+* Intelligence artificielle, données, calculs : quelles infrastructures dans un monde décarboné (🇫🇷 only) - [The Shift Project 2025](https://theshiftproject.org/article/rapport-intermediaire-ia/)
