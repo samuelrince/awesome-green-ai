@@ -155,6 +155,7 @@ Generic tools:
 * Green My LLM: Studying the key factors affecting the energy consumption of code assistants - [Coignion et al. (2024)](https://arxiv.org/abs/2411.11892)
 * A Beginner's Guide to Power and Energy Measurement and Estimation for Computing and Machine Learning - [Jagannadharao et al. (2024)](https://arxiv.org/abs/2412.17830v1)
 * From Efficiency Gains to Rebound Effects: The Problem of Jevons' Paradox in AI's Polarized Environmental Debate - [Luccioni et al. (2025)](https://arxiv.org/abs/2501.16548)
+* Understanding the environmental impact of generative AI services - [Berthelot et al. (2025)](https://hal.science/hal-04920612)
 * Unveiling Environmental Impacts of Large Language Model Serving: A Functional Unit View - [Wu et al. (2025)](https://arxiv.org/abs/2502.11256)
 
 
