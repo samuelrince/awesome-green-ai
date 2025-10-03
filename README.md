@@ -83,9 +83,7 @@ All contributions are welcome. Add links through [pull requests](https://github.
 * [Green Algorithms](http://calculator.green-algorithms.org/) - A tool to easily estimate the carbon footprint of a project.
 * [ML CO2 Impact](https://mlco2.github.io/impact/) - Compute model emissions and add the results to your paper with our generated latex template.
 * [EcoLogits Calculator](https://huggingface.co/spaces/genai-impact/ecologits-calculator) - Estimate energy consumption and environmental impacts of LLM inference.
-* [AI Carbon](https://huggingface.co/spaces/sasha/AI_Carbon) - Estimate your AI model's carbon footprint.
 * [MLCarbon](https://github.com/SotaroKaneda/MLCarbon) - End-to-end carbon footprint modeling tool.
-* [GenAI Carbon Footprint](https://github.com/greenscale-ai/genai-carbon-footprint) - A tool to estimate energy use (kWh) and carbon emissions (gCO2eq) from LLM usage.
 * [Carbon footprint modeling tool](https://borisruf.github.io/carbon-footprint-modeling-tool/ai-scenarios.html) - A data model and a viewer for carbon footprint scenarios.
 
 Generic tools:
@@ -93,6 +91,17 @@ Generic tools:
 * [Boaviztapi](https://github.com/Boavizta/boaviztapi/) - Multi-criteria impacts of compute resources taking into account manufacturing and usage.
 * [Datavizta](https://datavizta.boavizta.org/serversimpact) - Compute resources data explorer not limited to AI.
 * [EcoDiag](https://ecoinfo.cnrs.fr/ecodiag-calcul/) - Compute carbon footprint of IT resources taking into account manufactuing and usage (🇫🇷 only).
+
+
+<details>
+<summary>☠️ No longer maintained:</summary>
+
+<br>
+
+* [AI Carbon](https://huggingface.co/spaces/sasha/AI_Carbon) - Estimate your AI model's carbon footprint.
+* [GenAI Carbon Footprint](https://github.com/greenscale-ai/genai-carbon-footprint) - A tool to estimate energy use (kWh) and carbon emissions (gCO2eq) from LLM usage.
+
+</details>
 
 
 ### Leaderboards
