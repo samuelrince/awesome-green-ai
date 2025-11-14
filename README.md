@@ -181,7 +181,7 @@ Generic tools:
 * Breaking the ICE: Exploring promises and challenges of benchmarks for Inference Carbon & Energy estimation for LLMs - [Sikand et al. (2025)](https://arxiv.org/abs/2506.08727)
 * Not All Water Consumption Is Equal: A Water Stress Weighted Metric for Sustainable Computing - [Wu et al. (2025)](https://arxiv.org/abs/2506.22773)
 * Measuring the environmental impact of delivering AI at Google Scale - [Elsworth et al. (2025)](https://services.google.com/fh/files/misc/measuring_the_environmental_impact_of_delivering_ai_at_google_scale.pdf)
-* More than Carbon: Cradle-to-Grave environmental impacts of GenAI training on the Nvidia A100 GPU - [Falk et al. (2025)](https://arxiv.org/abs/2509.00093)
+* More than Carbon: Cradle-to-Grave environmental impacts of GenAI training on the Nvidia A100 GPU - [Falk et al. (2025)](https://arxiv.org/abs/2509.00093) [[supplemental material](https://github.com/sophia-falk/more-than-carbon)]
 * Video Killed the Energy Budget: Characterizing the Latency and Power Regimes of Open Text-to-Video Models - [Delavande et al. (2025)](https://arxiv.org/abs/2509.19222)
 * Ground-Truthing AI Energy Consumption: Validating CodeCarbon Against External Measurements - [Fischer (2025)](https://arxiv.org/abs/2509.22092)
 * Green Prompt Engineering: Investigating the Energy Impact of Prompt Design in Software Engineering - [De Martino et al. (2025)](https://arxiv.org/abs/2509.22320)
