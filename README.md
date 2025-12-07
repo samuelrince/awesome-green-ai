@@ -85,6 +85,7 @@ All contributions are welcome. Add links through [pull requests](https://github.
 * [EcoLogits Calculator](https://huggingface.co/spaces/genai-impact/ecologits-calculator) - Estimate energy consumption and environmental impacts of LLM inference.
 * [MLCarbon](https://github.com/SotaroKaneda/MLCarbon) - End-to-end carbon footprint modeling tool.
 * [Carbon footprint modeling tool](https://borisruf.github.io/carbon-footprint-modeling-tool/ai-scenarios.html) - A data model and a viewer for carbon footprint scenarios.
+* [FLOPs to Footprints](https://huggingface.co/spaces/sophia-falk/flops-2-footprints) - Evaluate the resource cost of AI.
 
 Generic tools:
 
@@ -185,6 +186,7 @@ Generic tools:
 * Video Killed the Energy Budget: Characterizing the Latency and Power Regimes of Open Text-to-Video Models - [Delavande et al. (2025)](https://arxiv.org/abs/2509.19222)
 * Ground-Truthing AI Energy Consumption: Validating CodeCarbon Against External Measurements - [Fischer (2025)](https://arxiv.org/abs/2509.22092)
 * Green Prompt Engineering: Investigating the Energy Impact of Prompt Design in Software Engineering - [De Martino et al. (2025)](https://arxiv.org/abs/2509.22320)
+* From FLOPs to Footprints: The Resource Cost of Artificial Intelligence - [Falk et al. (2025)](https://arxiv.org/abs/2512.04142)
 
 
 ### Survey Papers
