@@ -187,6 +187,7 @@ Generic tools:
 * Ground-Truthing AI Energy Consumption: Validating CodeCarbon Against External Measurements - [Fischer (2025)](https://arxiv.org/abs/2509.22092)
 * Green Prompt Engineering: Investigating the Energy Impact of Prompt Design in Software Engineering - [De Martino et al. (2025)](https://arxiv.org/abs/2509.22320)
 * From FLOPs to Footprints: The Resource Cost of Artificial Intelligence - [Falk et al. (2025)](https://arxiv.org/abs/2512.04142)
+* Beyond Counting Carbon: AI Environmental Assessments Struggle to Inform Net Impact Decisions - [Cook et al. (2025)](https://doi.org/10.3929/ethz-c-000789254)
 
 
 ### Survey Papers
