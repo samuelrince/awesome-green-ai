@@ -86,7 +86,7 @@ All contributions are welcome. Add links through [pull requests](https://github.
 * [MLCarbon](https://github.com/SotaroKaneda/MLCarbon) - End-to-end carbon footprint modeling tool.
 * [Carbon footprint modeling tool](https://borisruf.github.io/carbon-footprint-modeling-tool/ai-scenarios.html) - A data model and a viewer for carbon footprint scenarios.
 * [FLOPs to Footprints](https://huggingface.co/spaces/sophia-falk/flops-2-footprints) - Evaluate the resource cost of AI.
-
+* [EcoCompute AI Calculator](https://hongping-zh.github.io/ecocompute-ai/calculator/) - LLM carbon footprint calculator with RTX 5090 benchmark data and smart quantization energy warnings.
 Generic tools:
 
 * [Boaviztapi](https://github.com/Boavizta/boaviztapi/) - Multi-criteria impacts of compute resources taking into account manufacturing and usage.
