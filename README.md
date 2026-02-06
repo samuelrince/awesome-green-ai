@@ -22,7 +22,7 @@ All contributions are welcome. Add links through [pull requests](https://github.
 ### Code-Based Tools
 
 *Tools to measure and compute environmental impacts of AI.*
-
+- [EcoCompute AI](https://github.com/hongping-zh/ecocompute-ai) – CI/CD gatekeeper that predicts AI training costs and carbon footprint before code merges. Features pre-merge cost prediction, Agent Token FinOps for LLM workflows, and GitHub Actions integration.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux) ![Mac](https://img.shields.io/badge/Mac-black?style=flat&logo=apple) ![Win](https://img.shields.io/badge/Win-black?style=flat&logo=windows) ![GPU](https://img.shields.io/badge/GPU-black?style=flat&logo=nvidia) ![CLI](https://img.shields.io/badge/CLI-black?style=flat&logo=cli)
 - [CodeCarbon](https://github.com/mlco2/codecarbon) – Track emissions from Compute and recommend ways to reduce their impact on the environment.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux) ![Mac](https://img.shields.io/badge/Mac-black?style=flat&logo=apple) ![Win](https://img.shields.io/badge/Win-black?style=flat&logo=windows) ![GPU](https://img.shields.io/badge/GPU-black?style=flat&logo=nvidia) ![CLI](https://img.shields.io/badge/CLI-black?style=flat&logo=cli)
 - [carbontracker](https://github.com/lfwa/carbontracker) – Track and predict the energy consumption and carbon footprint of training deep learning models.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat&logo=nvidia)
 - [Zeus](https://github.com/SymbioticLab/Zeus) – A framework for deep learning energy measurement and optimization.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat&logo=nvidia)
@@ -86,7 +86,7 @@ All contributions are welcome. Add links through [pull requests](https://github.
 * [MLCarbon](https://github.com/SotaroKaneda/MLCarbon) - End-to-end carbon footprint modeling tool.
 * [Carbon footprint modeling tool](https://borisruf.github.io/carbon-footprint-modeling-tool/ai-scenarios.html) - A data model and a viewer for carbon footprint scenarios.
 * [FLOPs to Footprints](https://huggingface.co/spaces/sophia-falk/flops-2-footprints) - Evaluate the resource cost of AI.
-
+* [EcoCompute AI Calculator](https://hongping-zh.github.io/ecocompute-ai/calculator/) - LLM carbon footprint calculator with RTX 5090 benchmark data and smart quantization energy warnings.
 Generic tools:
 
 * [Boaviztapi](https://github.com/Boavizta/boaviztapi/) - Multi-criteria impacts of compute resources taking into account manufacturing and usage.
