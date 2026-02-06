@@ -188,6 +188,10 @@ Generic tools:
 * Green Prompt Engineering: Investigating the Energy Impact of Prompt Design in Software Engineering - [De Martino et al. (2025)](https://arxiv.org/abs/2509.22320)
 * From FLOPs to Footprints: The Resource Cost of Artificial Intelligence - [Falk et al. (2025)](https://arxiv.org/abs/2512.04142)
 * Beyond Counting Carbon: AI Environmental Assessments Struggle to Inform Net Impact Decisions - [Cook et al. (2025)](https://doi.org/10.3929/ethz-c-000789254)
+* Kareus: Joint Reduction of Dynamic and Static Energy in Large Model Training - [Wu et al. (2026)](https://arxiv.org/abs/2601.17654)
+* Where Do the Joules Go? Diagnosing Inference Energy Consumption - [Chung et al. (2026)](https://arxiv.org/abs/2601.22076)
+* Small Talk, Big Impact: The Energy Cost of Thanking AI - [Delavande et al. (2026)](https://arxiv.org/abs/2601.22357)
+* Understanding Efficiency: Quantization, Batching, and Serving Strategies in LLM Energy Use - [Delavande et al. (2026)](https://arxiv.org/abs/2601.22362)
 
 
 ### Survey Papers
