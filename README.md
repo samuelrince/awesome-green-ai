@@ -192,6 +192,7 @@ Generic tools:
 * Where Do the Joules Go? Diagnosing Inference Energy Consumption - [Chung et al. (2026)](https://arxiv.org/abs/2601.22076)
 * Small Talk, Big Impact: The Energy Cost of Thanking AI - [Delavande et al. (2026)](https://arxiv.org/abs/2601.22357)
 * Understanding Efficiency: Quantization, Batching, and Serving Strategies in LLM Energy Use - [Delavande et al. (2026)](https://arxiv.org/abs/2601.22362)
+* From Attributional to Consequential LCA: Which Theoretical Framework for Assessing AI’s Environmental Impacts? - [Ekchajzer et al. (2026)](https://hal.science/hal-05512793/)
 
 
 ### Survey Papers
