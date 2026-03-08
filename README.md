@@ -218,3 +218,4 @@ Generic tools:
 * Exploring the sustainable scaling of AI dilemma: A projective study of corporations' AI environmental impacts - [Capgemini Invent 2025](https://arxiv.org/abs/2501.14334)
 * Intelligence artificielle, données, calculs : quelles infrastructures dans un monde décarboné (🇫🇷 only) - [The Shift Project 2025](https://theshiftproject.org/article/rapport-intermediaire-ia/)
 * Measuring the environmental impacts of artificial intelligence compute and applications [OECD 2025](https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/11/measuring-the-environmental-impacts-of-artificial-intelligence-compute-and-applications_3dddded5/7babf571-en.pdf)
+* Recommendation ITU-T L.1801 - Guidelines for assessing the environmental impact of artificial intelligence systems [ITU 2026](https://www.itu.int/epublications/publication/itu-t-l-1801-2026-02-guidelines-for-assessing-the-environmental-impact-of-artificial-intelligence-systems)
