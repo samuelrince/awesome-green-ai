@@ -74,6 +74,7 @@ All contributions are welcome. Add links through [pull requests](https://github.
 
 - [Zeus](https://github.com/SymbioticLab/Zeus) – A framework for deep learning energy measurement and optimization.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat&logo=nvidia)
 - [GEOPM](https://github.com/geopm/geopm) – A framework to enable efficient power management and performance optimizations.<br> ![GPU](https://img.shields.io/badge/GPU-black?style=flat&logo=nvidia) ![k8s](https://img.shields.io/badge/k8s-black?style=flat&logo=kubernetes)
+- [TECS-L](https://github.com/need-singularity/TECS-L) – Mathematical framework deriving energy-efficient AI architectures from number theory. Includes Phi6Simple activation (71% fewer FLOPs than GELU), HCN dimensions (10-20% parameter savings), and phi-bottleneck FFN (67% compression). Combined 40-50% estimated energy savings per inference token.
 
 
 ### Calculation Tools
