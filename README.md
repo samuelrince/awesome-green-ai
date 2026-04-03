@@ -194,7 +194,7 @@ Generic tools:
 * Understanding Efficiency: Quantization, Batching, and Serving Strategies in LLM Energy Use - [Delavande et al. (2026)](https://arxiv.org/abs/2601.22362)
 * From Attributional to Consequential LCA: Which Theoretical Framework for Assessing AI’s Environmental Impacts? - [Ekchajzer et al. (2026)](https://hal.science/hal-05512793/)
 * Small Bottle, Big Pipe: Quantifying and Addressing the Impact of Data Centers on Public Water Systems - [Han et al. (2026)](https://arxiv.org/abs/2603.02705)
-* Green Prompting: Characterizing Prompt-driven Energy Costs of LLM Inference - [Adamska et al. (2026)](https://arxiv.org/abs/2503.10666))
+* Green Prompting: Characterizing Prompt-driven Energy Costs of LLM Inference - [Adamska et al. (2026)](https://arxiv.org/abs/2503.10666)
 
 
 ### Survey Papers
