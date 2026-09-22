@@ -70,6 +70,8 @@ All contributions are welcome. Add links through [pull requests](https://github.
 
 ### Optimization Tools
 
+- [WERR & Mandelbrot Neural Synthesis](https://github.com/pCwOrM/werr) - Zero-memory procedural decision kernel eliminating GPU VRAM consumption entirely (0 bytes VRAM, 24-byte coordinate seed) with sub-2ms deterministic System-1 execution on commodity CPU for ultra-low carbon footprint edge AI.
+
 *Tools to optimize energy consumption or environmental impacts.*
 
 - [Zeus](https://github.com/SymbioticLab/Zeus) – A framework for deep learning energy measurement and optimization.<br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux) ![GPU](https://img.shields.io/badge/GPU-black?style=flat&logo=nvidia)
