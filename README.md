@@ -109,6 +109,7 @@ Generic tools:
 
 * [LLM Perf Leaderboad](https://huggingface.co/spaces/optimum/llm-perf-leaderboard) - Benchmarking LLMs on performance and energy.
 * [ML.Energy Leaderboard](https://ml.energy/leaderboard/?__theme=light) - Energy consumption of GenAI models at inference.
+* [Lead Green](https://leadgreen.ai/) - Public index of GPU energy per million output tokens by model, GPU and configuration, with grid carbon intensity by country; JSON API and MCP server, CC BY 4.0.
 * [AI Energy Score Leaderboard](https://huggingface.co/spaces/AIEnergyScore/2024_Leaderboard) - Energy efficiency ratings for AI models.
 
 
