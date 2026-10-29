@@ -111,6 +111,12 @@ Generic tools:
 * [ML.Energy Leaderboard](https://ml.energy/leaderboard/?__theme=light) - Energy consumption of GenAI models at inference.
 * [AI Energy Score Leaderboard](https://huggingface.co/spaces/AIEnergyScore/2024_Leaderboard) - Energy efficiency ratings for AI models.
 
+### Emission Factors and Datasets
+
+*Open datasets to estimate the environmental impacts of AI usage.*
+
+* [SOMA AI Emission Factors (SAEF)](https://doi.org/10.5281/zenodo.20443585) - Carbon and water factors per million tokens for LLM inference, by model class and by 143 AWS, Azure and Google Cloud regions, CC BY 4.0, with a standard-library Python calculator. Built on ML.ENERGY Leaderboard data.
+
 
 ## 📚 Papers
 
@@ -196,6 +202,7 @@ Generic tools:
 * Small Bottle, Big Pipe: Quantifying and Addressing the Impact of Data Centers on Public Water Systems - [Han et al. (2026)](https://arxiv.org/abs/2603.02705)
 * Green Prompting: Characterizing Prompt-driven Energy Costs of LLM Inference - [Adamska et al. (2026)](https://arxiv.org/abs/2503.10666)
 * The Energy Footprint of LLM-Based Environmental Analysis: LLMs and Domain Products - [Bao et al. (2026)](https://arxiv.org/abs/2604.00053)
+* Accounting for Purchased Artificial Intelligence Inference in Corporate Greenhouse Gas Inventories: A Token-Based Method - [Llopis-Garcia (2026)](https://arxiv.org/abs/2606.10660)
 
 
 ### Survey Papers
